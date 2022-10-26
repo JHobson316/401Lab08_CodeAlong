@@ -1,0 +1,15 @@
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\obj\Debug\net6.0\CodeAlong.csproj.AssemblyReference.cache
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\obj\Debug\net6.0\CodeAlong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\obj\Debug\net6.0\CodeAlong.AssemblyInfoInputs.cache
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\obj\Debug\net6.0\CodeAlong.AssemblyInfo.cs
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\obj\Debug\net6.0\CodeAlong.csproj.CoreCompileInputs.cache
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\bin\Debug\net6.0\CodeAlong.exe
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\bin\Debug\net6.0\CodeAlong.deps.json
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\bin\Debug\net6.0\CodeAlong.runtimeconfig.json
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\bin\Debug\net6.0\CodeAlong.dll
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\bin\Debug\net6.0\CodeAlong.pdb
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\obj\Debug\net6.0\CodeAlong.dll
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\obj\Debug\net6.0\refint\CodeAlong.dll
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\obj\Debug\net6.0\CodeAlong.pdb
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\obj\Debug\net6.0\CodeAlong.genruntimeconfig.cache
+C:\Users\Jay\401\Lab08CodeAlong\Lab08_Codealong\CodeAlong\obj\Debug\net6.0\ref\CodeAlong.dll
